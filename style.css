@@ -1,6 +1,7 @@
 h1{
     color: blue;
     text-align: center;
+    
 }
 h2{
     color: cornflowerblue;
@@ -35,6 +36,12 @@ header, ul, a{
 header, ul, a:hover{
     color: black ;
 }
+div {
+    width: 300px;
+    border: 1px solid blue;
+    padding: 50px;
+    margin: 20px;
+  }
 footer{
     display: inline-block;
     width: 100%;
