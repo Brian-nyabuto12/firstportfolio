@@ -1,4 +1,4 @@
-# {my first portfoli}
+# {my first portfolio}
 ## author
 Brian Nyabuto
 ## Description
