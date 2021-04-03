@@ -29,6 +29,14 @@ header ,ul {
 header, ul, a{
      padding: 10px;
      text-decoration: none;
-     color:red;
+     color:red ;
 
+}
+header, ul, a:hover{
+    color: black ;
+}
+footer{
+    display: inline-block;
+    width: 100%;
+    
 }
