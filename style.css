@@ -1,17 +1,21 @@
 h1{
     color: blue;
     text-align: center;
-    
+    font: 1em sans-serif;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 h2{
-    color: cornflowerblue;
+    color:green;
     text-align: center;
+    font-size: 25px;
     top: left;
 }
 body{
-    background-image: url(../images/bg.jpg )
+    background-image: url(../images/bg.jpg)
     
 }
+
 .site{
     max-width: 300px;
     margin:auto;
@@ -30,8 +34,16 @@ header ,ul {
 header, ul, a{
      padding: 10px;
      text-decoration: none;
-     color:red ;
+     color:green ;
 
+}
+main,p{
+    color:green;
+    font-size: 18px;
+
+}
+ol{
+    color: green;
 }
 header, ul, a:hover{
     color: black ;
