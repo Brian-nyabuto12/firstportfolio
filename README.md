@@ -1,4 +1,5 @@
 # {my first portfolio}
+
 ## author
 Brian Nyabuto
 ## Description
@@ -12,6 +13,10 @@ Brian Nyabuto
 {To access this project on your local files,you can clone it using 
 * Open your terminal
 * use this command to clone $ git clone https://github.com/Brian-nyabuto12/myfirstportfolio}
+
+## live link
+
+https://brian-nyabuto12.github.io/firstportfolio/
 ## Technologies Used
 * HTML
 * CSS
